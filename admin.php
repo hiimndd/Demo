@@ -10,7 +10,7 @@ foreach($cars as $b){
   echo $b."<br>";
 }
 
-$car = "Chào bạn";
+$car = "Chào bạn bạn đạt đẹp trai nhất vũ trụ";
 echo $car;
 ?>
 
